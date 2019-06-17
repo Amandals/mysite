@@ -1,0 +1,37 @@
+body {
+	font-family: 'Lateef', cursive;
+	text-align: justify;
+}
+
+.navbar-reprograma {
+	background-color: #210401;
+	height: auto;
+	width: auto;
+}
+
+.navbar-amanda {
+	height: 250px;
+	background-color: #210401;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+h1 {
+	font-family: 'Lateef', cursive;
+	text-align: justify;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+h2,h3 {
+	font-family: 'Jaldi', sans-serif;
+	text-align: justify;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+ul {
+	font-weight: bold;
+	font-size: 16px;
+}
+
